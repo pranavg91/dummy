@@ -1,0 +1,25 @@
+Intro 
+My name is pranav gupta,I born in india.I have 4+ yr experience in manual testing and tested 3 application i.e Real estate,Health managt & employee BG in 
+these i did Smoke,Sanity, Functional,Integration,System,Regression,API & Db,ETL testing.I/we use JIRA for bug reporting & for test cases use practi test.
+Knowledge of SDLC,STLC and Defect life cycle.Proficient in Web application testing.Apart from this in my family we are 5members,2 elders sis,father mother and me.
+My hobbies are i like to explore the india.
+
+
+jenkins:
+In jenkings provide the path of selenium script and jenkins will pick up the script and creats the build and 
+the build output is dislay on jenkins dashboard with pass/fail status.
+--------------------------
+Jenkins is the contious integration tool. We can integrate our automation framework with jenkins.so that whenever new build install.
+we can perform the batch execution.We can also schedule our framework using jenkins. 
+
+
+Real Estate :
+the services include design reviews; building permits reviews, completion reviews, and its completion status.
+
+Health Management System :
+The objective of the project is to offer online weight loss and diabetes prevention program by developing the web and mobile based application.
+
+Employee Background Verification  :
+It provides background check verification services to clients
+
+WSDL, or Web Service Description Language, is an XML based definition language. It’s used for describing the functionality of a SOAP based web service.
